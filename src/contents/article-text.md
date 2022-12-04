@@ -8,9 +8,7 @@ draft: false
 tags:
   - docs
 ogImage: ""
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+description: An article About pollution I wrote for my school Project.
 ---
 
 ### Title: Principles of Reduce, Reuse, Recycle in Plastic Waste Management
