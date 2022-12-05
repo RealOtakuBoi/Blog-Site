@@ -17,7 +17,7 @@ description:
 
 #### Image Test
 
-![[RDT_20221205_202610235460419635026018 1.jpg]]
+![[RDT_20221205_202610235460419635026018.jpg]]
 
 
 This is also me testing 
