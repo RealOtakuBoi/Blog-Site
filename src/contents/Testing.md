@@ -3,7 +3,7 @@
 author: Soham Seth
 datetime: 2022-12-4T15:22:00Z
 title: Upload from Mobile Test
-slug: mobile-upload-test
+slug: upload-from-mobile-test
 featured: true
 draft: false
 tags:
