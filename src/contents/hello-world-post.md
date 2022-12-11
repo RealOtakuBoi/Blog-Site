@@ -3,7 +3,7 @@ author: Soham Seth
 datetime: 2022-09-23T15:22:00Z
 title: Hello World Post
 slug: hello-world-post
-featured: true
+featured: false
 draft: false
 tags:
   - docs
