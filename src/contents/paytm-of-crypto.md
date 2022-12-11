@@ -2,7 +2,7 @@
 author: Soham Seth
 datetime: 2022-12-11T13:57:21Z
 title: PayTM of Crypto
-slug: ''
+slug: blog-about-meta-mask
 featured: true
 draft: false
 tags:
