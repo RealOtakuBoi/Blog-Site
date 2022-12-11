@@ -8,9 +8,7 @@ draft: false
 tags:
   - docs
 ogImage: ""
-description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+description: A Test Post.
 ---
 
 ## Motivation
