@@ -39,3 +39,4 @@ fields:
     required: true
 pages:
 - src/contents/paytm-of-crypto.md
+- src/contents/stable-coins-the-new-cool-kids-on-the-block.md
