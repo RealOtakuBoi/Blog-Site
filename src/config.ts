@@ -5,7 +5,7 @@ export const SITE = {
   author: "Soham Seth",
   desc: "My Personal Blog made with Astro Paper theme",
   title: "OtakuBlogs",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "otakublog-og.jpg",
   lightAndDarkMode: true,
   postPerPage: 3,
 };
