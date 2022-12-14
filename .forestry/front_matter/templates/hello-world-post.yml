@@ -38,6 +38,7 @@ fields:
   config:
     required: true
 pages:
+- src/contents/how-maths-is-used-in-cryptocurrencies.md
 - src/contents/paytm-of-crypto.md
 - src/contents/so-these-pngs-have-value.md
 - src/contents/stable-coins-the-new-cool-kids-on-the-block.md
